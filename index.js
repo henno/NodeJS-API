@@ -26,7 +26,7 @@ app.get("/", (req, res) => {
 app.use("/comments", commentsRouter);
 
 /* Error handler middleware */
-app.use((err, req, res) => {
+app.use((err, req, res, next) => {
   if (!err.code) console.error(err.message, err.stack);
   res.status(err.code || 500).send({message: err.message});
 });
