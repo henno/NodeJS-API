@@ -13,7 +13,7 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "mysql2": "^2.3.3",
-    "socket.io": "^4.5.4",
+    "socket.io": "^4.6.2",
     "swagger-ui": "^4.15.5",
     "swagger-ui-express": "^4.6.0",
     "ws": "^8.11.0",
