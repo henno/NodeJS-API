@@ -14,7 +14,7 @@
     "express": "^4.18.2",
     "mysql2": "^3.9.7",
     "socket.io": "^4.5.4",
-    "swagger-ui": "^4.15.5",
+    "swagger-ui": "^5.1.0",
     "swagger-ui-express": "^4.6.0",
     "ws": "^8.11.0",
     "yamljs": "^0.3.0"
